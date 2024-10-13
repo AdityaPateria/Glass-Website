@@ -31,9 +31,7 @@ This project is a gaming dashboard with a modern **glassmorphism** UI design. Th
 
 3. Open `index.html` in your browser to view the website.
 
-## Preview
 
-![Dashboard Preview](preview.png)
 
 ## Customization
 
